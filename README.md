@@ -5,4 +5,4 @@ Day 1 - Linear Regression on House Price Prediction
 
 Day 2 - Computer Hardware Performance Prediction
 
-Day 3 - Deep Q Learning 
+Day 3,4,5,6 - Deep Q Learning 
