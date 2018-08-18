@@ -12,3 +12,5 @@ Day 7,8,9 - Collaoarative Filtering from scratch in Pytorch and Fastai library.
 Day-10 - Implementaion of Logistic Regression using Scikit-learn library. 
 
 Day-11,12 - Gaussian Mixture models and Expectation Maximization algo from scratch. 
+
+Day-13-14-15 - RNN in Pytorch for predicting next word of sentence. 
